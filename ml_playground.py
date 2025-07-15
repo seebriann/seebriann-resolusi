@@ -1,0 +1,1 @@
+print("Untuk Latihan Machine Learning")
